@@ -1,4 +1,4 @@
-#Python for Data Science
+# Python for Data Science
 
 1. Basics of Unix and Python
 2. Jupyter notebook and Numpy
