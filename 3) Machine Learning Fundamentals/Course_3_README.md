@@ -1,4 +1,4 @@
-#Machine Learning Fundamentals
+# Machine Learning Fundamentals
 1. Introduction to Machine Learning
 2. Prediction problems
 3. Generative Modeling I
