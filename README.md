@@ -6,4 +6,4 @@ Data Science Micromasters from University of California San Diego through EDX.or
 3) Machine Learning Fundamentals
 4) Big data analysis using Spark
 
-Contact me at mehul.2190@gmail.com for any collaboration or just create a pull request with changes, I will review and merge accordingly.
+Contact me at mehul.2190@gmail.com for any collaboration or create a pull request with changes, I will review and merge accordingly.
