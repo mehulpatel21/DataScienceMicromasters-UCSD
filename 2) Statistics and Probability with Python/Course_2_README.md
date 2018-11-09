@@ -1,4 +1,4 @@
-#Probability and Statistics in Python
+# Probability and Statistics in Python
 1. Intro to Probability and Statistics
 2. Sets
 3. Counting
