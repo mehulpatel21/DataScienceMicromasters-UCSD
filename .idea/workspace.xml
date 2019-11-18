@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="305a276a-773b-46f9-8c31-6101842e769c" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/1) Python for Data Science/src/basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1) Python for Data Science/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1) Python for Data Science/test/test_basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1) Python for Data Science/basics_python_unix.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Python for Data Science/src/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
