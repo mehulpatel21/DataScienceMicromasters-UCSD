@@ -1,5 +1,5 @@
 # Data Science Micromasters - UCSD
-Data Science Micromasters from University of California San Diego through EDX.org
+Data Science Micromasters from University of California San Diego through edx.org
 
 1) Python for Data Science 
 2) Statistics and Probability using Python 
