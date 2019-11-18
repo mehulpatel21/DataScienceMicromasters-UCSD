@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="305a276a-773b-46f9-8c31-6101842e769c" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/DataScienceMicromasters-UCSD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1) Python for Data Science/Introduction to Data Science in Python - Soccer Data Analysis.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1) Python for Data Science/Introduction to Data Science in Python - Soccer Data Analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1) Python for Data Science/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1) Python for Data Science/basics_python_unix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1) Python for Data Science/customplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) Statistics and Probability with Python/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3) Machine Learning Fundamentals/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4) Big Data Analysis with Spark/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1) Python for Data Science/Introduction to Data Science in Python - Soccer Data.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +48,14 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2091954" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.ChangelistConflict" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CasaDelLeo\PythonProjects\IntelliJ Projects\DataScienceMicromasters-UCSD\1) Python for Data Science\soccer_data_analysis" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
