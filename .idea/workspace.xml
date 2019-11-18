@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="305a276a-773b-46f9-8c31-6101842e769c" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/1) Python for Data Science/src/basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1) Python for Data Science/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1) Python for Data Science/test/test_basic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1) Python for Data Science/Introduction to Data Science in Python - Soccer Data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1) Python for Data Science/basics_python_unix.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Python for Data Science/src/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +39,9 @@
     </option>
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="4394ed41-73d2-4d06-8556-f16a3d6bdfe7" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="22" />
     <option name="width" value="1440" />
@@ -54,6 +61,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CasaDelLeo\PythonProjects\IntelliJ Projects\DataScienceMicromasters-UCSD\1) Python for Data Science\src" />
       <recent name="C:\Users\CasaDelLeo\PythonProjects\IntelliJ Projects\DataScienceMicromasters-UCSD\1) Python for Data Science\soccer_data_analysis" />
     </key>
   </component>
@@ -69,7 +77,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Unittests for test_basic.TestBasics.test_isupper">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataScienceMicromasters-UCSD" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,8 +99,23 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for test_basic.TestBasics.test_isupper" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="DataScienceMicromasters-UCSD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1) Python for Data Science/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_basic.TestBasics.test_isupper&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for test_basic.TestBasics.test_isupper" />
         <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
